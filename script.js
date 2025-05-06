@@ -7,6 +7,5 @@ const height = Number(prompt("Please Enter Your Height (in meters):"));
 // Calculate BMI using the formula: weight / height^2
 const BMI = weight / height ** 2;
 
-// Display the BMI result to the user with two decimal places
+// Display the BMI result to the user with two Decimal places
 alert("Your BMI is: " + BMI.toFixed(2));
-
