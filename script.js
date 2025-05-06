@@ -8,8 +8,4 @@ const height = Number(prompt("Please Enter Your Height (in meters):"));
 const BMI = weight / height ** 2;
 
 // Display the BMI result to the user with two decimal places
-alert("Your BMI is: " + BMI.toFixed(3));
-alert("Your BMI is: " + BMI.toFixed(3));
-alert("Your BMI is: " + BMI.toFixed(3));
-alert("Your BMI is: " + BMI.toFixed(3));
-
+alert("Your BMI is: " + BMI.toFixed(2));
