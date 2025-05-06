@@ -9,15 +9,4 @@ const BMI = weight / height ** 2;
 
 // Display the BMI result to the user with two Decimal places
 alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
-alert("Your BMI is: " + BMI.toFixed(2));
 
